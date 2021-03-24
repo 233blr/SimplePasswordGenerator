@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/SimplePasswordGenerator/static/css/main.504e8aa7.chunk.css",
+    "main.js": "/SimplePasswordGenerator/static/js/main.b0b3179d.chunk.js",
+    "main.js.map": "/SimplePasswordGenerator/static/js/main.b0b3179d.chunk.js.map",
+    "runtime-main.js": "/SimplePasswordGenerator/static/js/runtime-main.eba7deff.js",
+    "runtime-main.js.map": "/SimplePasswordGenerator/static/js/runtime-main.eba7deff.js.map",
+    "static/js/2.9806b82a.chunk.js": "/SimplePasswordGenerator/static/js/2.9806b82a.chunk.js",
+    "static/js/2.9806b82a.chunk.js.map": "/SimplePasswordGenerator/static/js/2.9806b82a.chunk.js.map",
+    "index.html": "/SimplePasswordGenerator/index.html",
+    "static/css/main.504e8aa7.chunk.css.map": "/SimplePasswordGenerator/static/css/main.504e8aa7.chunk.css.map",
+    "static/js/2.9806b82a.chunk.js.LICENSE.txt": "/SimplePasswordGenerator/static/js/2.9806b82a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eba7deff.js",
+    "static/js/2.9806b82a.chunk.js",
+    "static/css/main.504e8aa7.chunk.css",
+    "static/js/main.b0b3179d.chunk.js"
+  ]
+}
